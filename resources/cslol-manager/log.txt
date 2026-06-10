@@ -1,0 +1,30 @@
+Version: 2026-04-15-23f2308
+Acquire lock
+Check mod-tools
+Load mods
+Load profiles
+Read profile
+Run diag
+Windows version: 10.0.26200 [OK ✅ ]
+Windows flags: 0x0000018e
+Windows lang: 0x41f 0x41f
+CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+DirectX feature level min(0xc100) max(0xc100)
+Long Path: 1
+Directory: C:\Users\Eever\Desktop\4RzyCustom\cslol-manager\cslol-tools: [OK ✅ ]
+Free space: 63GB: [OK ✅ ]
+Patcher dll: 0x0 [OK ✅ ]
+WMI: 0x0 [OK ✅ ]
+UAC: 1 [OK ✅ ]
+Compat: C:\OYUNLAR\Riot Games\League of Legends\Game\League of Legends.exe [BAD ❌ ]
+Save profile
+Write profile
+[INF] Indexing game
+[INF] Reading mods
+[INF] Merging mods
+[INF] Writing wads
+[INF] Writing wad: DATA/FINAL/Champions/TahmKench.wad.client
+[INF] Cleaning up stray wads
+[INF] Done!
+Starting patcher...
+Status: Waiting for league match to start
